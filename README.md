@@ -1,4 +1,17 @@
-# File Integrity Checker
+#FILE INTEGRITY CHECKER
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: REMILLA SAKETH KUMAR
+
+*INTERN ID*: CT6WHIO
+
+*DOMIAN NAME*: CYBER SECURITY AND ETHICAK HACKING
+
+*DURATION*: 6WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
 
 This Python script calculates and displays the MD5 checksum of all files within a specified directory. It helps verify file integrity by comparing hashes, ensuring no changes have occurred.
 
